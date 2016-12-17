@@ -9,6 +9,6 @@ These are the homework assignments I did in IUPUI's CSCI 240 class in the Fall o
 * HW7 - The Perfect Pet - 36/100 (late submission)
 * HW8 - Inheritance Animation - 70/100 (Code didn't work/compile)
 * Project Proposal - 100/100
-* Final Project - /100
+* Final Project - 95/100
 
 In general, I just did the bare minimum on the assignments, hence mostly 88/100 and one 86/100.
